@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTRkMZLXc07skKAI7Kq0Ie7MH1lpIXeZPkpCFLmmduoer/1ahqyjUsvBY+Cfz0F3jzAcixaUSaU+2qxy711dwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yendi\\source\\repos\\ASPNETCore.QRCode\\ASPNETCore.QRCode\\ASPNETCore.QRCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yendi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\zxing.net\\0.16.5\\zxing.net.0.16.5.nupkg.sha512"
+  ],
+  "logs": []
+}

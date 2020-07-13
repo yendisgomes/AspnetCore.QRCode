@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Generate QRCode in ASP.NET Core MVC</title>
+</head>
+<body>
+
+    <h3>Generate QRCode in ASP.NET Core MVC</h3>
+    <form method="post" asp-controller="demo" asp-action="generate">
+        <input type="text" placeholder="Content" name="content" value="@ViewBag.content" />
+        <input type="submit" value="Generate" />
+    </form>
+    @if (@ViewBag.content != null)
+    {
+        <qrcode content="@ViewBag.content" width="200" height="200" />
+        <div><strong>Content:</strong> @ViewBag.content</div>
+    }
+
+</body>
+</html>
